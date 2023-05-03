@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-8daa1a0e","path":"/","title":"","lang":"zh-CN","frontmatter":{"home":true,"heroImage":null,"heroText":"MossFrp 开发者API文档","tagline":"by XSlime","actions":[{"text":"查看→","link":"./apis/","type":"primary"}],"footer":"MIT Licensed | Copyright © 2023-present XSlimeNB"},"headers":[],"git":{},"filePathRelative":"README.md"}');export{e as data};
